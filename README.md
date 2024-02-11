@@ -1,5 +1,4 @@
 My name is Phoom Wichachai, a 3rd-year student at Bangkok University majoring in AI and data science with a focus on AI innovation.👨‍💻
-
 I'm passionate about using AI to improve people's lives, and I'm always looking for new challenges and opportunities to learn and grow.
 
 What I do:
