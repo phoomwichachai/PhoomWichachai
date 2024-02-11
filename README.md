@@ -1,4 +1,5 @@
 My name is Phoom Wichachai, a 3rd-year student at Bangkok University majoring in AI and data science with a focus on AI innovation.👨‍💻
+
 I'm passionate about using AI to improve people's lives, and I'm always looking for new challenges and opportunities to learn and grow.
 
 What I do:
@@ -14,7 +15,8 @@ My skills:
 I'm proficient in Python libraries like NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn, OpenCV, TensorFlow, and RapidMiner.
 I also know SQL (MySQL and SQLite) and data visualization tools like Tableau and Power BI.
 On the soft skills side, I'm a good communicator, team player, and problem-solver. I'm also a quick learner and critical thinker.
-Want to connect?
+
+Want to connect:
 
 You can find me on LinkedIn at https://www.linkedin.com/in/phoom-wichachai-093bb9253/
 
