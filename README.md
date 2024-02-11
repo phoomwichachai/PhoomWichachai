@@ -13,12 +13,13 @@ My skills:
 
 I'm proficient in Python libraries like NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn, OpenCV, TensorFlow, and RapidMiner.
 I also know SQL (MySQL and SQLite) and data visualization tools like Tableau and Power BI.
-On the soft skills side, I'm a good communicator, team player, and problem-solver. I'm also a quick learner and critical thinker.
+On the soft skills side, I'm a good communicator, team player, and problem-solver. 
+I'm also a quick learner and critical thinker.
 
 Want to connect:
 
 You can find me on LinkedIn at https://www.linkedin.com/in/phoom-wichachai-093bb9253/           
-My email at phoom.wich@bumail.net 
+My email at phoom.wich@bumail.net                                                                          
 I'm always up for chatting about AI, data science, or anything else that interests me.
 
 
