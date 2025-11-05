@@ -1,25 +1,9 @@
-My name is Phoom Wichachai, 3rd-year student at Bangkok University majoring in AI and data science with a focus on AI innovation.👨‍💻  
-I'm passionate about using AI to improve people's lives, and I'm always looking for new challenges and opportunities to learn and grow.
-
-What I do:
-
-I'm an effective team worker with strong communication skills. I'm also a quick learner and adaptable to new challenges.
-I'm eager to expand my knowledge and gain more experience in the real world, particularly in the field of AI for Business.
-I've worked on a few projects already, including:
-Analyzing hazardous objects around Earth using NASA data and machine learning algorithms.
-Studying mobile phone purchasing behavior of Gen Z consumers.
-
-My skills:
-
-I'm proficient in Python libraries like NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn, OpenCV, TensorFlow, and RapidMiner.
-I also know SQL (MySQL and SQLite) and data visualization tools like Tableau and Power BI.
-On the soft skills side, I'm a good communicator, team player, and problem-solver. 
-I'm also a quick learner and critical thinker.
+Hello, my name is Phoom. I am an AI and Data Science graduate with First Class Honors (GPA 3.77) and strong English communication skills (TOEIC 735). I am passionate about applying machine learning and statistical modeling to solve real-world problems and drive data-driven decision making. Skilled in Python, SQL, and modern AI/ML frameworks, with hands-on experience in data preprocessing, model development, and performance optimization. A fast learner and collaborative team player, I am eager to contribute as a Data Scientist by developing scalable models and actionable insights that create measurable business impact.
 
 Want to connect:
 
 You can find me on LinkedIn at https://www.linkedin.com/in/phoom-wichachai-093bb9253/           
-My email at phoom.wich@bumail.net                                                                          
+My email at phoom.wic@gmail.com                                                                          
 I'm always up for chatting about AI, data science, or anything else that interests me.
 
 
